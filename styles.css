@@ -96,7 +96,7 @@ header .profile-image:hover {
   background: #fff;
   border-bottom: 4px solid #ccc;
   border-radius: 6px;
-  transition: all .5s;
+  transition: all 2s;
 }
 .card:hover {
   border-color: #ff99ff;
@@ -108,7 +108,7 @@ ul.skills {
 }
 
 .skills li {
-  border-radius: 6px;
+  border-radius: 10px;
   display: inline-block;
   background: #ff9904;
   color: white;
